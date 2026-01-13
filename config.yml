@@ -5,8 +5,6 @@ db_name: "ticketing_db"
 db_user: "db_app_user"
 db_pass: "ZdThM0(8&6"
 
-# Key
-encryption_key: "sk_live_es7CeLMShhd3YMtl2yz3q0om0p0hCYZW"
 
 # Email configuration
 smtp_server: "smtp.ictticketing.com"
